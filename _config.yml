@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Parth P. Patil # the main title
+title: Parth Patil # the main title
 
-tagline: My portfolio website # it will display as the subtitle
+tagline: I post about cybersecurity, coding and finance here. # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A personal portfolio website of Parth Patil, highlighting projects and other work.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: Parthp7 # change to your GitHub username
+  username: Parthpatil7 # change to your GitHub username
 
 linkedin:
   username: parth-patil-a5b420185 # change to your Twitter username
