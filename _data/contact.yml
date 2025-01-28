@@ -10,8 +10,8 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-#- type: rss
-#  icon: "fas fa-rss"
+#- type: TryHackMe
+#  icon: "fa-solid fa-link"
 #  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
@@ -23,9 +23,9 @@
   icon: "fab fa-linkedin" # icons powered by <https://fontawesome.com/>
   url: "https://www.linkedin.com/in/parth-patil-a5b420185/" # Fill with your Linkedin homepage
 #
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage
+#- type: stack-overflow
+# icon: 'fa-solid fa-link'
+#  url:  'https://tryhackme.com/r/p/PARTHP7'                  # Fill with your stackoverflow homepage
 #
 # - type: bluesky
 #   icon: 'fa-brands fa-bluesky'
